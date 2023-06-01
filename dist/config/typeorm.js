@@ -8,11 +8,11 @@ const count_entity_1 = require("../entities/count.entity");
 dotenv.config();
 exports.myDataSource = new typeorm_1.DataSource({
     type: 'postgres',
-    host: 'localhost',
+    host: 'otto.db.elephantsql.com',
     port: 5432,
-    password: 'sherzod2110',
-    username: 'postgres',
-    database: 'bot',
+    password: 'q6LWG7243y5CuGLeTIZNl9RxzvnJNRnO',
+    username: 'afcuytva',
+    database: 'afcuytva',
     entities: [user_entity_1.UsersEntity, count_entity_1.CountEntity],
     synchronize: true,
 });
