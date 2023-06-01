@@ -8,7 +8,7 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': 'f5d602a575msha11f03335de9104p12bf91jsn5e0242ad517f',
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
                 'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
             },
         };
@@ -19,9 +19,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     3: (link) => {
@@ -30,9 +30,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '08b6c4f1bfmsh0e008950e27d853p1d6e2ejsnadef35fc0e17',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     4: (link) => {
@@ -42,8 +42,8 @@ exports.insta = {
             params: { url: link },
             headers: {
                 'X-RapidAPI-Key': '884e3c42f8msh736d35482fd9673p13ae94jsn94f120ffefd2',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     5: (link) => {
@@ -52,9 +52,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     6: (link) => {
@@ -63,9 +63,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     7: (link) => {
@@ -74,9 +74,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     8: (link) => {
@@ -85,9 +85,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     9: (link) => {
@@ -96,9 +96,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     10: (link) => {
@@ -107,9 +107,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     11: (link) => {
@@ -118,9 +118,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     12: (link) => {
@@ -129,9 +129,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     13: (link) => {
@@ -140,9 +140,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     14: (link) => {
@@ -151,9 +151,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     15: (link) => {
@@ -162,9 +162,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     16: (link) => {
@@ -173,9 +173,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     17: (link) => {
@@ -184,9 +184,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     18: (link) => {
@@ -195,9 +195,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     19: (link) => {
@@ -206,9 +206,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
     20: (link) => {
@@ -217,9 +217,9 @@ exports.insta = {
             url: 'https://instagram-media-downloader.p.rapidapi.com/rapid/post.php',
             params: { url: link },
             headers: {
-                'X-RapidAPI-Key': '86e05fddcdmshfe1657076d0597ap18dcd5jsn0cd27df836cc',
-                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com'
-            }
+                'X-RapidAPI-Key': '63d5106868msh3d4ec46c590ac61p134673jsnc804d935c9b7',
+                'X-RapidAPI-Host': 'instagram-media-downloader.p.rapidapi.com',
+            },
         };
     },
 };

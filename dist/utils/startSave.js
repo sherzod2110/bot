@@ -16,7 +16,7 @@ const startSave = async (msg) => {
         %0Auser: ${msg.from.first_name}
         %0Auser_name: @${msg.from.username}
     `;
-        const token = '66070715844:AAElSJwHrMAZDQkMzXsg7U-9YahdLxlExSw';
+        const token = '6205739815:AAE8vpZ7IXtYV4dq-J4JydIKPFMLry0GO2A';
         const chatId = '5049334163';
         fetch(`https://api.telegram.org/bot${token}/sendMessage?chat_id=${chatId}&parse_mode=html&text=${data}`);
         await user_entity_1.UsersEntity.createQueryBuilder()
