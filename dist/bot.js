@@ -8,7 +8,7 @@ typeorm_1.myDataSource
     .initialize()
     .then(() => console.log('Baza Connect!!!'))
     .catch((err) => console.error(err));
-const BOT_TOKEN = '6205739815:AAE8vpZ7IXtYV4dq-J4JydIKPFMLry0GO2A';
+const BOT_TOKEN = '6070715844:AAElSJwHrMAZDQkMzXsg7U-9YahdLxlExSw';
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
 bot.on('message', (msg) => {
     const chatId = msg.chat.id;
@@ -26,6 +26,7 @@ bot.on('message', (msg) => {
         return bot.sendMessage(chatId, resp);
     }
     if (msg.text.split('m/')[0] == 'https://www.instagram.co') {
+        bot.sendMessage(chatId, 'Typing...');
         (0, videoDownload_1.videoDownload)(msg, bot);
         return;
     }

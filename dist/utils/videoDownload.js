@@ -14,10 +14,12 @@ const videoDownload = async (msg, bot) => {
         .request(insta_1.insta[Math.ceil(count / 100)](msg.text))
         .then(({ data }) => {
         bot.sendVideo(chatId, data === null || data === void 0 ? void 0 : data.video, {
-            caption: (data === null || data === void 0 ? void 0 : data.caption) ? data === null || data === void 0 ? void 0 : data.caption : '' + `\n\nTelegram kanalimiz https://t.me/sherzodbekblogs`,
+            caption: (data === null || data === void 0 ? void 0 : data.caption)
+                ? data === null || data === void 0 ? void 0 : data.caption
+                : '' + `\n\nTelegram kanalimiz https://t.me/sherzodbekblogs`,
         });
     })
-        .catch((error) => console.error(error));
+        .catch(() => undefined);
     await count_entity_1.CountEntity.createQueryBuilder()
         .update()
         .set({
