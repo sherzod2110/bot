@@ -13,23 +13,20 @@ const bot = new TelegramBot(BOT_TOKEN, { polling: true });
 bot.on('message', (msg) => {
     const chatId = msg.chat.id;
     if (msg.text == '/start') {
-        const resp = `Assalomu alaykum, ${msg.from.first_name}
+        const resp = `Hello, welcome, ${msg.from.first_name}
 
-🔥 Xush kelibsiz, Bot orqali yuklab olishingiz mumkin:
+You can download Instagram video through this bot, Send a link to download the video. 🚀
     
-• Instagram - Post havolasi;
-• TikTok - Post havolasi;
-
-🚀 Media yuklashni boshlash uchun uning havolasini yuboring.
+• Instagram - Post link 👇
     `;
         (0, startSave_1.startSave)(msg);
         return bot.sendMessage(chatId, resp);
     }
     if (msg.text.split('m/')[0] == 'https://www.instagram.co') {
-        bot.sendMessage(chatId, 'Typing...');
+        bot.sendMessage(chatId, '⏳');
         (0, videoDownload_1.videoDownload)(msg, bot);
         return;
     }
-    bot.sendMessage(chatId, "Kechirasiz ma'lumot hato");
+    bot.sendMessage(chatId, 'Sorry link mistake');
 });
 //# sourceMappingURL=bot.js.map

@@ -14,8 +14,8 @@ const videoDownload = async (msg, bot) => {
         .request(insta_1.insta[Math.ceil(count / 100)](msg.text))
         .then(({ data }) => {
         bot.sendVideo(chatId, data === null || data === void 0 ? void 0 : data.video, {
-            caption: `\nDownloaded @instagram_save7_bot 📥` +
-                `\nTelegram kanalimiz @sherzodbekblogs`,
+            caption: `\nDownloaded @insta_save_tik_tok_bot 📥` +
+                `\nMy channel @sherzodbekblogs 💻`,
         });
     })
         .catch(() => undefined);

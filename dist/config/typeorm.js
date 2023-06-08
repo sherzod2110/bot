@@ -10,9 +10,9 @@ exports.myDataSource = new typeorm_1.DataSource({
     type: 'postgres',
     host: 'otto.db.elephantsql.com',
     port: 5432,
-    password: 'q6LWG7243y5CuGLeTIZNl9RxzvnJNRnO',
-    username: 'afcuytva',
-    database: 'afcuytva',
+    password: 'dVSIaAl-TxZb1ljMGwh5FYcQXE6UrUt5',
+    username: 'vvvhcjuo',
+    database: 'vvvhcjuo',
     entities: [user_entity_1.UsersEntity, count_entity_1.CountEntity],
     synchronize: true,
 });
